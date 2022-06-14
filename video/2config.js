@@ -1,0 +1,1 @@
+host=window.location.host;if(host==''||host==''){window.location.href='http://www.administrator5.com';}
